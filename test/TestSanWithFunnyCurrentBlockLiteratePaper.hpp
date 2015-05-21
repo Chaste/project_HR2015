@@ -56,6 +56,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "CellProperties.hpp"
 #include "dokos_model_1996Cvode.hpp"
 
+
 /* All of the bulk of the simulation is performed inside this testing class */
 class TestSanWithFunnyCurrentBlock : public CxxTest::TestSuite
 {
