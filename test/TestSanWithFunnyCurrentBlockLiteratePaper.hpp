@@ -41,7 +41,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  * = Sino-atrial node simulation with funny current block =
  *
- * This is the code that was used to perform the simulation in Capel ''et al.'' (2014).
+ * This is the code that was used to perform the simulation in Capel ''et al.'', Heart Rhythm (2015).
  *
  * == Code Walkthrough ==
  */
