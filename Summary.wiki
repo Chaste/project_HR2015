@@ -8,7 +8,7 @@ edit that file, don't edit this page on trac!
 
 Welcome to the Chaste wiki.
 
-This section contains pages generated automatically from the source code accompanying Capel et al., Heart Rhythm, (2015).
+This section contains pages generated automatically from the source code accompanying Capel et al., [http://dx.doi.org/10.1016/j.hrthm.2015.05.027 Hydroxychloroquine reduces heart rate by modulating the hyperpolarisation activated current ‘If’: Novel electrophysiological insights and therapeutic potential.], Heart Rhythm, (2015).
 
 Before running these examples you will need to [wiki:InstallGuides/InstallGuide install Chaste's dependencies] and the [http://www.cs.ox.ac.uk/chaste/download.html source code for version 3.3].
 The easiest way to do this is using an Ubuntu machine (or an Ubuntu virtual machine) as discussed on InstallGuides/UbuntuPackage.
